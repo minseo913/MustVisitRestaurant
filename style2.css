@@ -1,0 +1,6 @@
+/* 테이블 항복 위에 마우스가 올라와 있을 때 색상 변화 */
+
+tr:hover td {
+  color: #0073e6;
+  cursor: pointer;
+}
